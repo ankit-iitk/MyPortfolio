@@ -4,7 +4,7 @@ Welcome to the official repository of **Ankit Saluja's Personal Portfolio Websit
 
 ---
 
-## 🖥 Live Website
+## Live Website
 
 🔗 [Visit Portfolio](https://ankit-iitk.github.io/MyPortfolio/)  
 
