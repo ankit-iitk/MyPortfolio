@@ -21,8 +21,10 @@ Welcome to the official repository of **Ankit Saluja's Personal Portfolio Websit
 - **Projects**  
   Showcasing key projects like:
   - Diabetes Prediction using ML  
-  - T20 2024 Cricket Score Prediction  
-  Each project includes a 3D tilt effect, description, and links.
+  - T20 2024 Cricket Score Prediction
+  - Music Recommender System
+  - Email Spam Classifier
+  - Netflix Customer Churn Prediction
 
 - **Skills**  
   A clean layout of technical skills using iconography or lists.
